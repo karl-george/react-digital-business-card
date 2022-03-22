@@ -1,0 +1,21 @@
+.footer-container {
+  background-color: #161619;
+  display: flex;
+  flex-direction: row;
+  width: 317px;
+  margin: 0 auto;
+  padding: 19px 35px;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.icon {
+  color: #161619;
+  background-color: #918e9b;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  padding: 5px;
+  border-radius: 5px;
+}

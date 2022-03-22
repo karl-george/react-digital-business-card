@@ -1,15 +1,21 @@
 .card {
   text-align: center;
-  margin: 200px auto;
+  margin: 200px auto 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .header-img {
   width: 317px;
   border-radius: 10px 10px 0 0;
+  margin-top: 44px;
 }
 
 .header-content {
-  text-align: center;
+  background-color: #1a1b21;
+  width: 317px;
 }
 
 .header-content > h1 {
@@ -17,6 +23,8 @@
   font-size: 25px;
   line-height: 30px;
   margin-bottom: 0;
+  margin-top: 0;
+  padding-top: 21px;
 }
 
 .header-content > h3 {

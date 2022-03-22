@@ -1,0 +1,24 @@
+.interests-container {
+  background-color: #1a1b21;
+  display: flex;
+  flex-direction: column;
+  width: 317px;
+  margin: 0 auto;
+  padding: 0 35px;
+}
+
+.interests-container > h2 {
+  font-size: 16px;
+  line-height: 150%;
+  margin-top: 27px;
+  margin-bottom: 0;
+}
+
+.interests-container > p {
+  color: #dcdcdc;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 150%;
+  margin-top: 5px;
+  margin-bottom: 24px;
+}

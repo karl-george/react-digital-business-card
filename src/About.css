@@ -1,0 +1,24 @@
+.about-container {
+  background-color: #1a1b21;
+  display: flex;
+  flex-direction: column;
+  width: 317px;
+  margin: 0 auto;
+  padding: 0 35px;
+}
+
+.about-container > h2 {
+  font-size: 16px;
+  line-height: 150%;
+  margin-top: 32px;
+  margin-bottom: 0;
+}
+
+.about-container > p {
+  color: #dcdcdc;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 150%;
+  margin-top: 5px;
+  margin-bottom: 0;
+}
